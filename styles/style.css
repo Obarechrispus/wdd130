@@ -25,10 +25,14 @@ p {
     padding: 0px;
 }
 aside {
+    margin: 0vb;
     width: 30%;
+    border: beige;
+    padding: 0%;
+    color: azure;
     max-width: 1000px;
     min-width: 100px;
-    /*background-color: rgb(86, 85, 85);*/
+    background-color: rgb(86, 85, 85);
     
 
 }
