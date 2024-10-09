@@ -24,6 +24,8 @@ body {
     background-color: rgb(10, 10, 10);
 }
 p {
+    color: white;
+    size: auto;
     padding: 0px;
 }
 aside {
