@@ -13,9 +13,9 @@ h1{
 main img{
     width: 200px;
     height: auto;
-    border: 5px box-shadow rgb(46, 47, 48);
+    border: 5px solid blue;
     padding: 2px;
-    box-shadow: 7px 7px 30px;
+    box-shadow: 7px 7px 30px rgba(0, 0, 0, 0.5);
 }
 body {
     background-color: rgb(10, 10, 10);
