@@ -1,0 +1,41 @@
+body{
+    background-color: yellow;
+}
+.hero {
+    background-image: url ('./images/back.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+}
+.hero img{
+    width: 25%; 
+    height: 25%;
+    margin-bottom: 20px;  
+    float: right;
+}
+footer{
+    background-color: yellow;
+    justify-content: center;
+    text-align: center;
+    bottom: 0;
+    
+}
+
+.footerconatainer{
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+}
+.footerconatainer a{
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 25%;
+    size: 25px;
+    color: black;
+}
+.iconss{
+    color: black;
+    font-size: 30px;
+    opacity: 20;
+}

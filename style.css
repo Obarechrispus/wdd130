@@ -45,6 +45,7 @@ footer {
 
     margin-top: 15px;
     border-top: 5px;
+    position: fixed;
     position: absolute;
     width: 100%;
 
