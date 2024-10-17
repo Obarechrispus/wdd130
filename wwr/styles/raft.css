@@ -2,12 +2,7 @@ body{
     background-color: yellow;
 }
 
-.hero img{
-    width: 25%; 
-    height: 25%;
-    margin-bottom: 20px;  
-    float: right;
-}
+
 footer{
     background-color: yellow;
     justify-content: center;
